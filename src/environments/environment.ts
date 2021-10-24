@@ -1,7 +1,7 @@
 
 
 export const environment = {
-  production: false,
+  production: true,
   //HOST: 'http://localhost:8080',
   HOST: 'https://testbackendspring.herokuapp.com',
   TOKEN_AUTH_USERNAME: 'codemediapp',
